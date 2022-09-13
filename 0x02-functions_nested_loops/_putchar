@@ -11,5 +11,3 @@ int _putchar(char c)
 {
 	return (write(1, &c, 1));
 }
-ssh 62691906416c@62691906416c.2a676d35.alx-cod.online
-48274aab0713163a63d0
